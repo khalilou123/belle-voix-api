@@ -1,4 +1,5 @@
-flask
-numpy
-librosa
+fastapi
+uvicorn[standard]
 tensorflow
+librosa
+numpy
